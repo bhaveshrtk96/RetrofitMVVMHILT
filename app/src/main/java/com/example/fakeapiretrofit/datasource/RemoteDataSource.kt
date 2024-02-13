@@ -1,7 +1,7 @@
 package com.example.fakeapiretrofit.datasource
 
-import com.example.fakeapiretrofit.modelentities.ProductPojo
-import com.example.fakeapiretrofit.modelentities.ProductPojoItem
+import com.example.fakeapiretrofit.sharedmodelentities.ProductPojo
+import com.example.fakeapiretrofit.sharedmodelentities.ProductPojoItem
 import com.example.fakeapiretrofit.network.FakeApiQueries
 import retrofit2.Response
 import javax.inject.Inject

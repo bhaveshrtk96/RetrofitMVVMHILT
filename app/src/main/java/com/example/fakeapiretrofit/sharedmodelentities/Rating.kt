@@ -1,4 +1,4 @@
-package com.example.fakeapiretrofit.modelentities
+package com.example.fakeapiretrofit.sharedmodelentities
 
 data class Rating(
     val count: Int,

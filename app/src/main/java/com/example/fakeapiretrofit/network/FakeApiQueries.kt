@@ -1,7 +1,7 @@
 package com.example.fakeapiretrofit.network
 
-import com.example.fakeapiretrofit.modelentities.ProductPojo
-import com.example.fakeapiretrofit.modelentities.ProductPojoItem
+import com.example.fakeapiretrofit.sharedmodelentities.ProductPojo
+import com.example.fakeapiretrofit.sharedmodelentities.ProductPojoItem
 import retrofit2.Response
 import retrofit2.http.Body
 import retrofit2.http.GET
