@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Set the background color to light gray -->
+    <solid android:color="#d1d1d1" />
+
+    <!-- Set the border color to white and specify the border width -->
+    <stroke
+        android:width="0.2dp"
+        android:color="#ffffff" />
+
+    <corners
+        android:radius="5dp"/>
+</shape>
